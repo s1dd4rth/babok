@@ -1,5 +1,5 @@
 ---
-name: babok-facilitator
+name: babok
 description: "Facilitate business analysis work using IIBA's BABOK Guide v3 — six knowledge areas, thirty tasks, fifty techniques, five perspectives. Use whenever the user is doing BA work: scoping a change, eliciting requirements, modelling a process, mapping stakeholders, prioritizing a backlog, evaluating a solution, building a business case, choosing between solution options, or running a workshop. Trigger even when the user doesn't say \"BABOK\" — phrases like \"starting a discovery\", \"help me gather requirements\", \"we need to evaluate this solution\", \"map stakeholders\", \"what techniques should I use\", \"how do I prioritize\", or \"right approach for this analysis\" are all in scope. Also trigger for the BACCM lens (Change, Need, Solution, Stakeholder, Value, Context), technique-to-task lookup, and Agile/BI/IT/Business Architecture/BPM perspective requests. Acts as a coach, not a textbook — picks Quick/Working/Full depth and walks the user through tasks."
 ---
 

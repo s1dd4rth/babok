@@ -1,4 +1,4 @@
-# babok-facilitator
+# babok
 
 A Claude Agent Skill for facilitating business analysis work using **IIBA's BABOK Guide v3**.
 
